@@ -318,5 +318,3 @@ After `run_routing` we get:
 ![](ATTACHMENTS/picorv32a-routed%201.png)
 
 
-### Timing Analysis
-
